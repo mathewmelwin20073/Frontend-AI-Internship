@@ -1,0 +1,8 @@
+# Tech Stack
+- React / Next.js
+- TypeScript
+- Tailwind CSS
+
+# Coding Standards
+- Use functional components with explicit TypeScript interfaces.
+- Follow Conventional Commits format for Git messages.
