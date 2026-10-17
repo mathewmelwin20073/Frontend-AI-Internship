@@ -2,4 +2,6 @@ node_modules/
 .env
 dist/
 build/
+.next/
+*.tsbuildinfo
 .DS_Store
